@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node ./singleton/index.js",
     "build": "tsc",
+    "factory": "node dist/factoryMethod/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
